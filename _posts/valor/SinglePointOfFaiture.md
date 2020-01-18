@@ -2,9 +2,8 @@
 layout: post
 title: 单点故障
 category: it
-tags: [it]
-no-post-nav: true
-excerpt: single point of failure
+description: 单点故障解决
+keywords: 单点故障
 ---
 
 
