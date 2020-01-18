@@ -28,7 +28,7 @@ cloudapi4.redboxes.io | master04
 
 #### 使用情况图示
 
-<img src="../../../assets/images/valor/单点问题现状.png" alt="单点问题现状" />
+<img src="../../assets/images/valor/单点问题现状.png" alt="单点问题现状" />
 
 
 # 单点故障应对方案
@@ -64,7 +64,7 @@ cloudapi4.redboxes.io | master04
 #### 方案图示
 
 
-![单点解决方案](../../../assets/images/valor/singlePointSolution.png)
+![单点解决方案](../../assets/images/valor/singlePointSolution.png)
 
 #### 回滚方案
 
